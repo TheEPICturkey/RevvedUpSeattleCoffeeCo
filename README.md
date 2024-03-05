@@ -2,8 +2,6 @@
 
 ### By Brandon Spear
 
-Created for Brandon Ellete, CEO of Revved Up Coffee
-
 ### Technologies Used
   * JS
   * CSS
