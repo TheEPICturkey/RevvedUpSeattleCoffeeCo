@@ -10,7 +10,11 @@ How automated do you want this? (Want to have orders automatically emailed to yo
 
 
 
-What is your companies revenue, what is your cvompanies monthly order number, how many of those are repeats, and are you expecting to have major growth in the next two years. This will determine things like databse and hosing size. Can be changed later on if big business boom happens.
+Will you want an admin page to track revenue, traffic, and change items/price.
+
+
+
+What is your companies revenue, what is your companies monthly order number, how many of those are repeats, and are you expecting to have major growth in the next two years. This will determine things like databse and hosing size. Can be changed later on if big business boom happens.
 
 
 
