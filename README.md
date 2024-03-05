@@ -22,7 +22,7 @@ Created for Brandon Ellete, CEO of Revved Up Coffee
 2. Click "Clone or download" to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
 3. Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
 4. Clone the repository to your desktop using: `git clone https://github.com/TheEPICturkey/RevvedUpSeattleCoffeeCo.git`.
-5. Enter the command `cd EasyCoffee` to reach the project directory.
+5. Enter the command `cd REVVEDUPCOFFEE` to reach the project directory.
 6. Enter `code .` to open it up in Visual Studio Code.
 7. Alternatively you can just download it by clicking on "Download Zip" option from before.
 
